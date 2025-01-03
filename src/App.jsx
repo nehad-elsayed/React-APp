@@ -10,7 +10,7 @@ import Footer from "./components/Footer/Footer.jsx";
 import Portfolio from "./components/Portfolio/Portfolio.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Layout from "./components/layout/layout.jsx";
-let routers = createBrowserRouter([
+let routers = createHashRouter([
   {
     path: "/",
     element: <Layout />,
