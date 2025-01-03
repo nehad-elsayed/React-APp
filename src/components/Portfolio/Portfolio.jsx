@@ -13,7 +13,7 @@ export default function Portfolio() {
 
   return (
     <>
-      <div className="portfolio p-2 my-4">
+      <div className="portfolio p-2 ">
         <div className="container">
           <div className="title">
             <h2 className="text-center text-uppercase">Portfolio</h2>

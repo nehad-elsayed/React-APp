@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <>
-      <div className="about text-center my-4 p-3">
+      <div className="about text-center  p-3">
         <div className="container text-white">
           <h2 className="text-center text-uppercase">About</h2>
           <span className="global-icon">

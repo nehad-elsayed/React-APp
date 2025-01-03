@@ -135,6 +135,8 @@ header h2 {
     font-size: 2rem !important;
     font-family: Monserrat;
     font-weight: 700;
+    margin-top: 100px;
+
 
 }
 
@@ -149,9 +151,11 @@ header h2 {
 
 /************* Start portfolio ************/
 
+
 .portfolio .title {
     color: #2C3E50;
     text-align: center;
+    margin-top: 100px;
 
 }
 
@@ -219,6 +223,8 @@ header h2 {
 .contact .title {
     color: #2C3E50;
     text-align: center;
+    margin-top: 100px;
+
 
 }
 
@@ -314,10 +320,7 @@ footer ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* position: absolute;
-    top: 50%;
-    left: 40%;
-    transform: translate(-50%, -50%); */
+
 }
 
 footer ul li {
@@ -437,11 +440,14 @@ footer .last p {
 
     .portfolio .title h2,
     .contact .title h2 {
-        font-size: 4rem;
+        font-size: 3rem;
+        padding-top: 40px;
     }
 
     .about h2 {
-        font-size: 4rem !important;
+        font-size: 3rem !important;
+        padding-top: 40px;
+
     }
 }
 
