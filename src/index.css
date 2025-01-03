@@ -371,7 +371,7 @@ footer .last p {
     margin-top: 10px;
 }
 
-.modal{
+.modal {
     position: relative;
     z-index: 999;
     width: 500px;
@@ -380,6 +380,7 @@ footer .last p {
     color: aliceblue;
 
 }
+
 /**==================== START Media  */
 @media (min-width:575.98px) {}
 
@@ -433,11 +434,13 @@ footer .last p {
     .about p {
         width: 80%;
     }
+
     .portfolio .title h2,
-    .contact .title h2{
+    .contact .title h2 {
         font-size: 4rem;
     }
-    .about h2{
+
+    .about h2 {
         font-size: 4rem !important;
     }
 }

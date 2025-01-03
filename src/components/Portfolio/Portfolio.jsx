@@ -26,14 +26,13 @@ export default function Portfolio() {
               return (
                 <div key={index} className="col-md-4">
                   <Card image={image} setImg={setImg} />
-                  <Modal/>
+                  <Modal />
                 </div>
               );
             })}
           </div>
         </div>
       </div>
-      
     </>
   );
 }
